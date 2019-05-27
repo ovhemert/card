@@ -24,4 +24,4 @@ $ npm install npmcard
 $npm run dev
 ```
 
-Thank you to @bitandbang and @ovhemerg
+Thank you to @bitandbang and @ovhemert
